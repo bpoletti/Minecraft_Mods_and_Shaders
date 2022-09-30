@@ -1,0 +1,19 @@
+#Mon Sep 19 22:54:09 EDT 2022
+uwatertint=false
+Distance_Blur=true
+Contrast=1.8
+wFogDensity=70.0
+waves_amplitude=0.75
+bloom_strength=1.0
+Dof_Distance_View=384
+animationSpeed=0.75
+shadowMapResolution=4096
+morningFog=true
+Lens_Flares=true
+DoF_Strength=20
+Moonlight=0.006
+waterA=5.0
+Underwater_Fog=false
+Depth_of_Field=true
+uFogDensity=5.0
+Godrays=true
